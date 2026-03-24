@@ -1,0 +1,18 @@
+{
+  "name": "hyperagents",
+  "version": "0.1.0",
+  "description": "Self-referential self-improving agent framework for Claude Code. Inspired by Meta's HyperAgents paper — evolutionary optimization of skills, agents, hooks, and code via LLM-driven mutation and fitness-based selection.",
+  "author": {
+    "name": "HyperAgents Plugin",
+    "url": "https://github.com/facebookresearch/HyperAgents"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": [
+    "self-improvement",
+    "evolutionary",
+    "meta-agent",
+    "open-ended",
+    "self-referential",
+    "hyperagents"
+  ]
+}

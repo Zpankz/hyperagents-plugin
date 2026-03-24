@@ -1,0 +1,15 @@
+# Runtime evolution data
+.hyperagents/
+!.hyperagents/config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
