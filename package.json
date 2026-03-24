@@ -1,0 +1,29 @@
+{
+  "name": "hyperagents-plugin",
+  "version": "0.1.0",
+  "description": "Claude Code plugin for self-referential self-improving agents. Inspired by Meta's HyperAgents paper — evolutionary optimization via LLM-driven mutation and fitness-based selection.",
+  "keywords": [
+    "claude-code-plugin",
+    "hyperagents",
+    "self-improvement",
+    "evolutionary",
+    "meta-agent",
+    "self-referential"
+  ],
+  "author": "Zpankz",
+  "license": "CC-BY-NC-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zpankz/hyperagents-plugin.git"
+  },
+  "homepage": "https://github.com/Zpankz/hyperagents-plugin",
+  "files": [
+    ".claude-plugin/",
+    "commands/",
+    "agents/",
+    "skills/",
+    "hooks/",
+    "scripts/",
+    "README.md"
+  ]
+}
