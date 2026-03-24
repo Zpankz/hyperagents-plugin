@@ -1,5 +1,5 @@
 {
-  "name": "hyperagents-plugin",
+  "name": "hyperagents",
   "version": "0.1.0",
   "description": "Claude Code plugin for self-referential self-improving agents. Inspired by Meta's HyperAgents paper — evolutionary optimization via LLM-driven mutation and fitness-based selection.",
   "keywords": [
